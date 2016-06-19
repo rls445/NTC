@@ -284,7 +284,7 @@ footer a{
     margin: 20px auto;
     position: relative;
     border: 10px solid #fff;
-    border-bottom: 30px solid #fff;
+    border-bottom: 50px solid #fff;
     width: 600px;
     height: 400px;
     -webkit-box-shadow: 0 0 2px #999;
@@ -295,8 +295,7 @@ footer a{
 
 .image-caption {
     position: absolute;
-    right: 15px;
-    bottom: -25px;
+    top: 350px;
     font-size: 13px;
     color: #0a3931;  
 }
